@@ -1,4 +1,4 @@
-# School-Management-System (Final Project of NTI 1 Month Module C and Embedded C)
+# School-Management-System 
 This project is focused on student record services in school, so it is named “School Management System”
 Here, you can create a new student, update
 information of an existing student, view and manage
