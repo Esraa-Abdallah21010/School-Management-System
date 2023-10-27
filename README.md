@@ -5,7 +5,7 @@ information of an existing student, view and manage
 scores, check the details of an existing student,
 remove existing student and view student’ list.
 The function we are looking for:
-<h6>* MAIN_MENU ()</h6>
+<h4>* MAIN_MENU ()</h4>
 – this function displays the welcome screen and targeted activates.
 <h5>* NEW_STUDENT()</h5>
 – this function creates a new student account. it asks about details of the student such as name, date of birth, ID, address and phone number.
