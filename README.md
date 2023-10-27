@@ -5,17 +5,17 @@ information of an existing student, view and manage
 scores, check the details of an existing student,
 remove existing student and view student’ list.
 The function we are looking for:
-<h4>* MAIN_MENU ()</h4>
+<h3>* MAIN_MENU ()</h3>
 – this function displays the welcome screen and targeted activates.
-<h5>* NEW_STUDENT()</h5>
+<h3>* NEW_STUDENT()</h3>
 – this function creates a new student account. it asks about details of the student such as name, date of birth, ID, address and phone number.
-<h2>* DELETE_STUDENT()</h2> 
+<h3>* DELETE_STUDENT()</h3> 
 – this function is for deleting a customer account.
-<h2>* STUDENT_LIST()</h2> 
+<h3>* STUDENT_LIST()</h3> 
 –this function, you can view the students information such as name, date of birth, ID, address and phone number in table form (alphabetically ascending).
-<h2>* STUDENT_EDIT()</h2> 
+<h3>* STUDENT_EDIT()</h3> 
 – this function has been used for updating a particular student account.
-<h2>* RANK_STUDENT()</h2> 
+<h3>* RANK_STUDENT()</h3> 
 –this function can sort all students according to computer science score.
-<h2>* STUDENT_SCORE()</h2> 
+<h3>* STUDENT_SCORE()</h3> 
 – this function has been used for updating score of all students.
