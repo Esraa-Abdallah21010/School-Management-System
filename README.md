@@ -1,4 +1,4 @@
-# (Final Project of NTI 1 Month Module C and Embedded C)
+# Final Project of NTI 1 Month Module C and Embedded C
 <h2>School-Management-System</h2>
 This project is focused on student record services in school, so it is named “School Management System”
 Here, you can create a new student, update
