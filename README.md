@@ -2,7 +2,7 @@
 <h3 align="center">Console-based Student Management System in C</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Esraa-Abdallah21010&label=Repo%20Views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" alt="Cute Penguin" width="150"/>
 </p>
 
 <p align="center">
