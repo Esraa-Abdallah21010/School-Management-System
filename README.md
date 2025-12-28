@@ -2,7 +2,7 @@
 <h3 align="center">Console-based Student Management System in C</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" alt="Cute Penguin" width="150"/>
+  <img src="https://komarev.com/ghpvc/?username=Esraa-Abdallah21010&label=Profile%20views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cute Penguin" width="150"/>
+  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" alt="Cute Penguin" width="150"/>
 </p>
 
 ---
@@ -38,14 +38,6 @@
 - 🗂️ View all students  
 - ❌ Delete students  
 - 📊 Sort students by name or marks  
-
----
-
-## 📸 Screenshots
-<p align="center">
-  <img src="Screen Shot Desktop.png" alt="Desktop Screenshot" width="600"/>
-  <img src="Screen Shot Mobile.png" alt="Mobile Screenshot" width="300"/>
-</p>
 
 ---
 
