@@ -1,22 +1,67 @@
-# Final Project of NTI 1 Month Module C and Embedded C
-<h2>School-Management-System</h2>
-This project is focused on student record services in school, so it is named “School Management System”
-Here, you can create a new student, update
-information of an existing student, view and manage
-scores, check the details of an existing student,
-remove existing student and view student’ list.
-The function we are looking for:
-<h3>* MAIN_MENU ()</h3>
-– this function displays the welcome screen and targeted activates.
-<h3>* NEW_STUDENT()</h3>
-– this function creates a new student account. it asks about details of the student such as name, date of birth, ID, address and phone number.
-<h3>* DELETE_STUDENT()</h3> 
-– this function is for deleting a customer account.
-<h3>* STUDENT_LIST()</h3> 
-–this function, you can view the students information such as name, date of birth, ID, address and phone number in table form (alphabetically ascending).
-<h3>* STUDENT_EDIT()</h3> 
-– this function has been used for updating a particular student account.
-<h3>* RANK_STUDENT()</h3> 
-–this function can sort all students according to computer science score.
-<h3>* STUDENT_SCORE()</h3> 
-– this function has been used for updating score of all students.
+<h1 align="center">School Management System 🏫</h1>
+<h3 align="center">Console-based Student Management System in C</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Esraa-Abdallah21010&label=Repo%20Views&color=ff69b4&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  🎓 **Graduation Project** – Supported by **NTI Scholarship**
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cute Penguin" width="150"/>
+</p>
+
+---
+
+## 👩‍💻 About the Project
+- 🎓 Graduation project under **NTI Scholarship**  
+- 💡 Console-based Student Management System written in **C**  
+- 📝 Allows: Add, Edit, Delete, View student records  
+- ⚡ Designed as a practical learning project for student management  
+
+---
+
+## 🛠️ Tech Stack
+
+| Language | Tools |
+|---|---|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GCC](https://img.shields.io/badge/GCC-FF6600?style=for-the-badge&logo=gnu&logoColor=white) |
+
+---
+
+## 📂 Features
+- 💻 Add new student records  
+- ✏️ Edit existing student details  
+- 🗂️ View all students  
+- ❌ Delete students  
+- 📊 Sort students by name or marks  
+
+---
+
+## 📸 Screenshots
+<p align="center">
+  <img src="Screen Shot Desktop.png" alt="Desktop Screenshot" width="600"/>
+  <img src="Screen Shot Mobile.png" alt="Mobile Screenshot" width="300"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:esraaabdallah21010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Esraa-Abdallah21010">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/esraa-abdallah-029945381">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Follow my journey as I grow into a Full Stack Developer!
